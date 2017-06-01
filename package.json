@@ -4,9 +4,6 @@
   "description": "Express minimal api",
   "main": "server.js",
   "scripts": {
-    "test": ""
-  },
-  "scripts": {
     "start": "node server.js"
   },
   "author": "",
